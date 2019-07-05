@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Météo</string>
+
+    <string name="humidite">Humidité : </string>
+    <string name="pression">Pression : </string>
+    <string name="nom_de_la_ville">Nom de la Ville</string>
+    <string name="chercher">Chercher</string>
+</resources>
